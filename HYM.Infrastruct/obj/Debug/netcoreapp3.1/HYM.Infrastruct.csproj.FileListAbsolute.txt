@@ -1,0 +1,17 @@
+C:\Users\heyangming\Desktop\DDD实践\HYM.DDD\HYM.Infrastruct\bin\Debug\netcoreapp3.1\HYM.Domain.Core.dll
+C:\Users\heyangming\Desktop\DDD实践\HYM.DDD\HYM.Infrastruct\bin\Debug\netcoreapp3.1\HYM.Domain.dll
+C:\Users\heyangming\Desktop\DDD实践\HYM.DDD\HYM.Infrastruct\obj\Debug\netcoreapp3.1\HYM.Infrastruct.csprojAssemblyReference.cache
+C:\Users\heyangming\Desktop\DDD实践\HYM.DDD\HYM.Infrastruct\obj\Debug\netcoreapp3.1\HYM.Infrastruct.AssemblyInfoInputs.cache
+C:\Users\heyangming\Desktop\DDD实践\HYM.DDD\HYM.Infrastruct\obj\Debug\netcoreapp3.1\HYM.Infrastruct.AssemblyInfo.cs
+C:\Users\heyangming\Desktop\DDD实践\HYM.DDD\HYM.Infrastruct\bin\Debug\netcoreapp3.1\HYM.Infrastruct.deps.json
+C:\Users\heyangming\Desktop\DDD实践\HYM.DDD\HYM.Infrastruct\bin\Debug\netcoreapp3.1\HYM.Infrastruct.dll
+C:\Users\heyangming\Desktop\DDD实践\HYM.DDD\HYM.Infrastruct\bin\Debug\netcoreapp3.1\HYM.Infrastruct.pdb
+C:\Users\heyangming\Desktop\DDD实践\HYM.DDD\HYM.Infrastruct\bin\Debug\netcoreapp3.1\HYM.Domain.pdb
+C:\Users\heyangming\Desktop\DDD实践\HYM.DDD\HYM.Infrastruct\bin\Debug\netcoreapp3.1\HYM.Domain.Core.pdb
+C:\Users\heyangming\Desktop\DDD实践\HYM.DDD\HYM.Infrastruct\obj\Debug\netcoreapp3.1\HYM.Infrastruct.csproj.CoreCompileInputs.cache
+C:\Users\heyangming\Desktop\DDD实践\HYM.DDD\HYM.Infrastruct\obj\Debug\netcoreapp3.1\HYM.Infrastruct.csproj.CopyComplete
+C:\Users\heyangming\Desktop\DDD实践\HYM.DDD\HYM.Infrastruct\obj\Debug\netcoreapp3.1\HYM.Infrastruct.dll
+C:\Users\heyangming\Desktop\DDD实践\HYM.DDD\HYM.Infrastruct\obj\Debug\netcoreapp3.1\HYM.Infrastruct.pdb
+C:\Users\heyangming\Desktop\DDD实践\HYM.DDD\HYM.Infrastruct\bin\Debug\netcoreapp3.1\HYM.Infrastruct.runtimeconfig.json
+C:\Users\heyangming\Desktop\DDD实践\HYM.DDD\HYM.Infrastruct\bin\Debug\netcoreapp3.1\HYM.Infrastruct.runtimeconfig.dev.json
+C:\Users\heyangming\Desktop\DDD实践\HYM.DDD\HYM.Infrastruct\obj\Debug\netcoreapp3.1\HYM.Infrastruct.genruntimeconfig.cache

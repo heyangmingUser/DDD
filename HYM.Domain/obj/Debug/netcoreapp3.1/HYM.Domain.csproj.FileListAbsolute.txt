@@ -1,0 +1,15 @@
+C:\Users\heyangming\Desktop\DDD实践\HYM.DDD\HYM.Domain\bin\Debug\netcoreapp3.1\HYM.Domain.Core.dll
+C:\Users\heyangming\Desktop\DDD实践\HYM.DDD\HYM.Domain\obj\Debug\netcoreapp3.1\HYM.Domain.csprojAssemblyReference.cache
+C:\Users\heyangming\Desktop\DDD实践\HYM.DDD\HYM.Domain\obj\Debug\netcoreapp3.1\HYM.Domain.AssemblyInfoInputs.cache
+C:\Users\heyangming\Desktop\DDD实践\HYM.DDD\HYM.Domain\obj\Debug\netcoreapp3.1\HYM.Domain.AssemblyInfo.cs
+C:\Users\heyangming\Desktop\DDD实践\HYM.DDD\HYM.Domain\bin\Debug\netcoreapp3.1\HYM.Domain.deps.json
+C:\Users\heyangming\Desktop\DDD实践\HYM.DDD\HYM.Domain\bin\Debug\netcoreapp3.1\HYM.Domain.dll
+C:\Users\heyangming\Desktop\DDD实践\HYM.DDD\HYM.Domain\bin\Debug\netcoreapp3.1\HYM.Domain.pdb
+C:\Users\heyangming\Desktop\DDD实践\HYM.DDD\HYM.Domain\bin\Debug\netcoreapp3.1\HYM.Domain.Core.pdb
+C:\Users\heyangming\Desktop\DDD实践\HYM.DDD\HYM.Domain\obj\Debug\netcoreapp3.1\HYM.Domain.csproj.CoreCompileInputs.cache
+C:\Users\heyangming\Desktop\DDD实践\HYM.DDD\HYM.Domain\obj\Debug\netcoreapp3.1\HYM.Domain.csproj.CopyComplete
+C:\Users\heyangming\Desktop\DDD实践\HYM.DDD\HYM.Domain\obj\Debug\netcoreapp3.1\HYM.Domain.dll
+C:\Users\heyangming\Desktop\DDD实践\HYM.DDD\HYM.Domain\obj\Debug\netcoreapp3.1\HYM.Domain.pdb
+C:\Users\heyangming\Desktop\DDD实践\HYM.DDD\HYM.Domain\bin\Debug\netcoreapp3.1\HYM.Domain.runtimeconfig.json
+C:\Users\heyangming\Desktop\DDD实践\HYM.DDD\HYM.Domain\bin\Debug\netcoreapp3.1\HYM.Domain.runtimeconfig.dev.json
+C:\Users\heyangming\Desktop\DDD实践\HYM.DDD\HYM.Domain\obj\Debug\netcoreapp3.1\HYM.Domain.genruntimeconfig.cache

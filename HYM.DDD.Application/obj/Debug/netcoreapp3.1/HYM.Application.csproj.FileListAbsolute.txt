@@ -1,0 +1,17 @@
+C:\Users\heyangming\Desktop\DDD实践\HYM.DDD\HYM.DDD.Application\bin\Debug\netcoreapp3.1\HYM.Domain.Core.dll
+C:\Users\heyangming\Desktop\DDD实践\HYM.DDD\HYM.DDD.Application\bin\Debug\netcoreapp3.1\HYM.Domain.dll
+C:\Users\heyangming\Desktop\DDD实践\HYM.DDD\HYM.DDD.Application\obj\Debug\netcoreapp3.1\HYM.Application.csprojAssemblyReference.cache
+C:\Users\heyangming\Desktop\DDD实践\HYM.DDD\HYM.DDD.Application\obj\Debug\netcoreapp3.1\HYM.Application.AssemblyInfoInputs.cache
+C:\Users\heyangming\Desktop\DDD实践\HYM.DDD\HYM.DDD.Application\obj\Debug\netcoreapp3.1\HYM.Application.AssemblyInfo.cs
+C:\Users\heyangming\Desktop\DDD实践\HYM.DDD\HYM.DDD.Application\bin\Debug\netcoreapp3.1\HYM.Application.deps.json
+C:\Users\heyangming\Desktop\DDD实践\HYM.DDD\HYM.DDD.Application\bin\Debug\netcoreapp3.1\HYM.Application.dll
+C:\Users\heyangming\Desktop\DDD实践\HYM.DDD\HYM.DDD.Application\bin\Debug\netcoreapp3.1\HYM.Application.pdb
+C:\Users\heyangming\Desktop\DDD实践\HYM.DDD\HYM.DDD.Application\bin\Debug\netcoreapp3.1\HYM.Domain.pdb
+C:\Users\heyangming\Desktop\DDD实践\HYM.DDD\HYM.DDD.Application\bin\Debug\netcoreapp3.1\HYM.Domain.Core.pdb
+C:\Users\heyangming\Desktop\DDD实践\HYM.DDD\HYM.DDD.Application\obj\Debug\netcoreapp3.1\HYM.Application.csproj.CoreCompileInputs.cache
+C:\Users\heyangming\Desktop\DDD实践\HYM.DDD\HYM.DDD.Application\obj\Debug\netcoreapp3.1\HYM.Application.csproj.CopyComplete
+C:\Users\heyangming\Desktop\DDD实践\HYM.DDD\HYM.DDD.Application\obj\Debug\netcoreapp3.1\HYM.Application.dll
+C:\Users\heyangming\Desktop\DDD实践\HYM.DDD\HYM.DDD.Application\obj\Debug\netcoreapp3.1\HYM.Application.pdb
+C:\Users\heyangming\Desktop\DDD实践\HYM.DDD\HYM.DDD.Application\bin\Debug\netcoreapp3.1\HYM.Application.runtimeconfig.json
+C:\Users\heyangming\Desktop\DDD实践\HYM.DDD\HYM.DDD.Application\bin\Debug\netcoreapp3.1\HYM.Application.runtimeconfig.dev.json
+C:\Users\heyangming\Desktop\DDD实践\HYM.DDD\HYM.DDD.Application\obj\Debug\netcoreapp3.1\HYM.Application.genruntimeconfig.cache
