@@ -21,6 +21,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\HYM.Domain\HYM.Domain.csproj" />
+    <ProjectReference Include="..\HYM.Infrastruct\HYM.Infrastruct.csproj" />
   </ItemGroup>
 
 </Project>

@@ -1,4 +1,5 @@
 ﻿using HYM.Domain.Core.Commands;
+using HYM.Domain.Core.Events;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -26,6 +27,6 @@ namespace HYM.Domain.Core.Bus
         /// <param name="event"> 事件模型，比如StudentRegisteredEvent，</param>
         /// 请注意一个细节：这个命名方法和Command不一样，一个是RegisterStudentCommand注册学生命令之前,一个是StudentRegisteredEvent学生被注册事件之后
         /// <returns></returns>
-        //Task RaiseEvent<T>(T @event) where T : Event;
+        Task RaiseEvent<T>(T @event) where T : Event;
     }
 }

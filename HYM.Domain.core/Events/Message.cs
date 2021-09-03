@@ -11,7 +11,7 @@ namespace HYM.Domain.Core.Events
     /// 然后并且添加聚合根
     /// </summary>
     /// </summary>
-    public abstract class Message : IRequest<bool>
+    public abstract class Message : IRequest
     {
         public string MessageType { get; protected set; }
         public Guid AggregateId { get; protected set; }

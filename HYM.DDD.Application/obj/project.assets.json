@@ -507,6 +507,27 @@
         "runtime": {
           "bin/placeholder/HYM.Domain.Core.dll": {}
         }
+      },
+      "HYM.Infrastruct/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "AutoMapper.Extensions.Microsoft.DependencyInjection": "8.1.1",
+          "FluentValidation.AspNetCore": "10.3.3",
+          "HYM.Domain": "1.0.0",
+          "MediatR": "9.0.0",
+          "MediatR.Extensions.Microsoft.DependencyInjection": "9.0.0",
+          "Microsoft.EntityFrameworkCore": "3.1.18",
+          "Microsoft.Extensions.Configuration.FileExtensions": "3.1.18",
+          "Microsoft.Extensions.Configuration.Json": "3.1.18",
+          "Pomelo.EntityFrameworkCore.MySql": "3.2.6"
+        },
+        "compile": {
+          "bin/placeholder/HYM.Infrastruct.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/HYM.Infrastruct.dll": {}
+        }
       }
     }
   },
@@ -1381,6 +1402,11 @@
       "type": "project",
       "path": "../HYM.Domain.core/HYM.Domain.Core.csproj",
       "msbuildProject": "../HYM.Domain.core/HYM.Domain.Core.csproj"
+    },
+    "HYM.Infrastruct/1.0.0": {
+      "type": "project",
+      "path": "../HYM.Infrastruct/HYM.Infrastruct.csproj",
+      "msbuildProject": "../HYM.Infrastruct/HYM.Infrastruct.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -1389,6 +1415,7 @@
       "AutoMapper.Extensions.Microsoft.DependencyInjection >= 8.1.1",
       "FluentValidation.AspNetCore >= 10.3.3",
       "HYM.Domain >= 1.0.0",
+      "HYM.Infrastruct >= 1.0.0",
       "MediatR >= 9.0.0",
       "MediatR.Extensions.Microsoft.DependencyInjection >= 9.0.0",
       "Microsoft.EntityFrameworkCore.Tools >= 3.1.18",
@@ -1437,6 +1464,9 @@
           "projectReferences": {
             "C:\\Users\\heyangming\\Desktop\\DDD实践\\HYM.DDD\\HYM.Domain\\HYM.Domain.csproj": {
               "projectPath": "C:\\Users\\heyangming\\Desktop\\DDD实践\\HYM.DDD\\HYM.Domain\\HYM.Domain.csproj"
+            },
+            "C:\\Users\\heyangming\\Desktop\\DDD实践\\HYM.DDD\\HYM.Infrastruct\\HYM.Infrastruct.csproj": {
+              "projectPath": "C:\\Users\\heyangming\\Desktop\\DDD实践\\HYM.DDD\\HYM.Infrastruct\\HYM.Infrastruct.csproj"
             }
           }
         }

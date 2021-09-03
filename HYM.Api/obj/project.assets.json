@@ -474,6 +474,7 @@
           "AutoMapper.Extensions.Microsoft.DependencyInjection": "8.1.1",
           "FluentValidation.AspNetCore": "10.3.3",
           "HYM.Domain": "1.0.0",
+          "HYM.Infrastruct": "1.0.0",
           "MediatR": "9.0.0",
           "MediatR.Extensions.Microsoft.DependencyInjection": "9.0.0",
           "Microsoft.Extensions.Configuration.FileExtensions": "3.1.18",
